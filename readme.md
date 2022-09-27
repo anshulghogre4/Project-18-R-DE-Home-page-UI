@@ -22,6 +22,6 @@
 
 ---
 
-## [Live-Link](https://project-17-shopify-home-page-ui.netlify.app/)
+## [Live-Link](https://project-18-rode-home-page-ui.netlify.app/)
 
 ---
